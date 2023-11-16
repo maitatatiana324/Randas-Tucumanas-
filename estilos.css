@@ -1,0 +1,11 @@
+body{
+    background-image:url(https://www.cultura.gob.ar/media/uploads/encuentro_de_encaje_randa.jpg); /*link de la imagen*/
+    background-repeat:inherit;/*hace que la imagen se repita*/
+    background-size: contain;/*hace que la imagen ocupe toda la pantall*/
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /*tipo de fuente de las letras*/
+    font-size: 300%; /*tamaño de las letras*/
+    text-align: center; /*alineación del texto*/
+  }
